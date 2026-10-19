@@ -2,7 +2,7 @@
 
 Dashboard interactivo (Plotly) con el análisis histórico de valoraciones de ligas en la saga FIFA / EA FC.
 
-🔗 **Demo en vivo:** https://TU-USUARIO.github.io/dashboard-futbol/
+🔗 **Demo en vivo:** https://Tomasmonserrat.github.io/dashboard-futbol/
 
 ## Cómo verlo
 - Online: abrí el link de la demo.
